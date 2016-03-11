@@ -20,17 +20,17 @@ msgstr ""
 #: concrete/blocks/core_area_layout/templates/parallax
 msgctxt "TemplateFileName"
 msgid "Parallax"
-msgstr ""
+msgstr "视差效果"
 
 #: concrete/blocks/page_attribute_display/templates/boolean.php
 msgctxt "TemplateFileName"
 msgid "Boolean"
-msgstr ""
+msgstr "布尔"
 
 #: concrete/blocks/page_attribute_display/templates/date_time.php
 msgctxt "TemplateFileName"
 msgid "Date Time"
-msgstr ""
+msgstr "日期时间"
 
 #: concrete/blocks/page_title/templates/archive.php
 msgctxt "TemplateFileName"
